@@ -1,0 +1,5 @@
+outs:
+    - md5: 42041e030095b343591d1c91ca296001.dir
+      size: 24538841
+      path: chexpert
+      nfiles: 2
